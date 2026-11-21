@@ -1,7 +1,7 @@
 // tehtävä 1
-let etunimi = "Kseniia";
-let ika = 19;
-let kaupunki = "Kerava";
+let etunimi = "Aino";
+let ika = 21;
+let kaupunki = "Oulu";
 
 console.log(`Olen ${etunimi}, ${ika} vuotta, ${kaupunki}sta.`);
 
